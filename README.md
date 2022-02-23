@@ -3,5 +3,6 @@
 1. หน้าแรกของ application จะแสดงหัวข้อโน้ตทั้งหมด
 2. สามารถสร้าง note และแก้ไข หรือเพิ่มรายละเอียดของโน้ตได้
 3. ในส่วนของ tablet จะมีการทำงานเหมือนกันแตกต่างที่ teblet จะแสดงรายละเอียดของของโน้ตในหน้าเดียวกับหัวข้อโน้ต
+4. เปลี่ยน theme ตามที่ชอบ
 
-DEMO CLIP: [CLICK HERE](https://youtu.be/gcKORDMgOGo)
+DEMO CLIP: [CLICK HERE](https://youtu.be/sVHyv5hPJcI)
