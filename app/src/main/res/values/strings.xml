@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="name_of_list">Create note</string>
+    <string name="create_list">Create</string>
+</resources>
